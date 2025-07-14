@@ -10,7 +10,7 @@
             "cache_duration": "none"
           },
           "leading_diamond": "\u256d\u2500\ue0b6",
-          "template": "{{ if .SSHSession }}\ueba9 {{ end }}\uF303 {{ .UserName }} ",
+          "template": "{{ if .SSHSession }}\ueba9 {{ end }}\uE62A {{ .UserName }} ",
           "foreground": "#4C566A",
           "background": "#E5E9F0",
           "type": "session",
@@ -99,7 +99,7 @@
         {
           "type": "text",
           "style": "diamond",
-          "template": "\uF303 ",
+          "template": "\uE62A ",
           "properties": {
             "cache_duration": "none"
           },
